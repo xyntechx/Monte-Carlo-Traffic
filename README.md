@@ -24,4 +24,14 @@ To better simulate real-world traffic, some areas of improvement can be implemen
 
 - Introduce "bad drivers" by varying the normal speed of each car
 - Make traffic lights a function of the number of cars waiting behind them such that the more cars waiting, the longer the specific traffic light stays on
-- Straight roads should have a higher probability of moving (faster speed) because straight roads are often expressways with higher speed limits
+- Cars on straight roads should have a higher probability of moving (faster speed) because straight roads are often expressways with higher speed limits
+
+## Takeaways from Event
+
+From the 2021 SUTD Virtual Research Hackathon, I learnt many new things:
+
+- How to utilise Monte Carlo methods such that randomness can be used to solve problems
+- A new programming language, Julia
+- How to program under strict time constraints
+
+Thank you to the presenters, mentors, organisers, and all who were involved in the hackathon!
