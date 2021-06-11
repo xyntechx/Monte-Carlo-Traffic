@@ -26,7 +26,7 @@ To better simulate real-world traffic, some areas of improvement can be implemen
 - Make traffic lights a function of the number of cars waiting behind them such that the more cars waiting, the longer the specific traffic light stays on
 - Cars on straight roads should have a higher probability of moving (faster speed) because straight roads are often expressways with higher speed limits
 
-## Takeaways from Event
+## Key Takeaways
 
 From the 2021 SUTD Virtual Research Hackathon, I learnt many new things:
 
