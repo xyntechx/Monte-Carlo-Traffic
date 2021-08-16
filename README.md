@@ -4,7 +4,7 @@ This notebook won 1st Prize in the 2021 SUTD Virtual Research Hackathon. It leve
 
 ## Aim
 
-This notebook aims to compare the congestion in:
+This notebook aims to compare traffic congestions in:
 - Scenario 1: 1 straight road
 - Scenario 2: 1 straight road + 1 side road
 - Scenario 3: 1 straight road + 1 side road + traffic lights
